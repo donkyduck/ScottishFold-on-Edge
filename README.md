@@ -1,2 +1,2 @@
 # ScottishFold-on-Edge
-Human build the world and let cats be our boss!! 
+Humans build the world and let cats be our boss!! 
