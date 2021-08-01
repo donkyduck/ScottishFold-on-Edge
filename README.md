@@ -4,7 +4,7 @@
 >"Humans build the world and let our cat be the boss!!"
 
 <p align="center">
-  <img src="https://github.com/donkyduck/ScottishFold-on-Edge/blob/main/Figure_CAT/Cat_work.jpg"/>
+  <img src="https://github.com/donkyduck/ScottishFold-on-Edge/blob/main/Figure_CAT/DSC_6852-2.jpg"/>
 </p>
 
 <details open="open">
