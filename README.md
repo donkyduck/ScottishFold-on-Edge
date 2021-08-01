@@ -1,5 +1,5 @@
 # ScottishFold-on-Edge [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
-[![Code](<img alt="APM" src="https://img.shields.io/apm/l/ScottishFold?style=flat-square">)]
+[![Python version](https://img.shields.io/pypi/pyversions/Django?style=flat-square](Python)
 
 
 
