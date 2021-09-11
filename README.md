@@ -31,18 +31,17 @@
 <tr>
 <td>
 
-ScottisFold is a framework of the IoT devices classification empowered by machine learning (ML) algorithms. 
-In this project, we embrace the power of Catboost, a Categorical Boosting algorithm, to accelerate the classification
-and improve its accuracy.  
+ScottisFold is a framework of the IoT devices classification empowered by the [Catboost](https://catboost.ai/), Categorical Boosting algorithm (an algorithm based on gradient boosting on decision trees) to accelerate the classification
+and improve its accuracy. The ScottisFold can analyze the IoT TCP packets by very few streams of packets, and the classification model is lightweight. 
 
-
-
-<details open>
-<summary>ML</summary>
-<br>
-
-</details>
 
 </td>
 </tr>
 </table>
+
+<details open>
+<summary>Requirements</summary>
+<br>
+- Python 2.7 (for database management)
+- Python 3.8 (for ML algorithms)
+</details>
