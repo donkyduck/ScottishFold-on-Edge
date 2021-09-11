@@ -1,7 +1,7 @@
 # ScottishFold on Edge [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE) [![Python](https://img.shields.io/pypi/pyversions/Django?style=flat-square)](Python)
 
 
->"While Humans build the world, cats made use of humans to conquer the world!!"
+>"Cats made use of humans to conquer the world!!"
 
 <p align="center">
   <img src="https://github.com/donkyduck/ScottishFold-on-Edge/blob/main/Figure_CAT/DSC_6852-2.jpg"/>
@@ -32,7 +32,8 @@
 <tr>
 <td>
 
-ScottisFold is a framework of the IoT devices classification empowered by machine learning (ML) algorithms. We embrance the
+ScottisFold is a framework of the IoT devices classification empowered by machine learning (ML) algorithms. We embrace the power of Catboost, a Categorical Boosting algorithm, to accelerate the classification
+and improve its accuracy.  
 
 
 
