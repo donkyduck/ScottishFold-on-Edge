@@ -42,6 +42,6 @@ and improve its accuracy. The ScottisFold can analyze the IoT TCP packets by ver
 <details open>
 <summary>Requirements</summary>
 <br>
-- Python 2.7 (for database management) <\br>
-- Python 3.8 (for ML algorithms) <\br>
+- Python 2.7 (for database management) <br/>
+- Python 3.8 (for ML algorithms) <br/>
 </details>
