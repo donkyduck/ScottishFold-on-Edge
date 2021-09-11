@@ -1,7 +1,7 @@
 # ScottishFold on Edge [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE) [![Python](https://img.shields.io/pypi/pyversions/Django?style=flat-square)](Python)
 
 
->"Humans build the world and let a cat be their boss!!"
+>"While Humans build the world, cats made use of humans to conquer the world!!"
 
 <p align="center">
   <img src="https://github.com/donkyduck/ScottishFold-on-Edge/blob/main/Figure_CAT/DSC_6852-2.jpg"/>
@@ -32,11 +32,8 @@
 <tr>
 <td>
 
-ScottisFold is a framework of the 
+ScottisFold is a framework of the IoT devices classification empowered by machine learning (ML) algorithms. We embrance the
 
-There are many great README or issues templates available on GitHub, however, you have to find them yourself and combine different templates yourself. In addition, if you want extensive docs like CODE_OF_CONDUCT.md, CONTRIBUTING.md, SECURITY.md or even advanced GitHub features like pull request template, additional labels, code scanning, and automatic issues/PRs closing and locking you have to do much work. Your time should be focused on creating something **amazing**. You shouldn't be doing the same tasks over and over like creating your GitHub project template from scratch. Follow the **don’t repeat yourself** principle. So just use the template **and go create something amazing**!
-
-The key features of **Amazing GitHub Template**:
 
 
 <details open>
