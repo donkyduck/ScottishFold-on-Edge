@@ -20,7 +20,6 @@
     - [Variables reference](#variables-reference)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [Support](#support)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -32,18 +31,15 @@
 <tr>
 <td>
 
-ScottisFold is a framework of the IoT devices classification empowered by machine learning (ML) algorithms. We embrace the power of Catboost, a Categorical Boosting algorithm, to accelerate the classification
+ScottisFold is a framework of the IoT devices classification empowered by machine learning (ML) algorithms. 
+In this project, we embrace the power of Catboost, a Categorical Boosting algorithm, to accelerate the classification
 and improve its accuracy.  
 
 
 
 <details open>
-<summary>Additional info</summary>
+<summary>ML</summary>
 <br>
-
-This project is the result of huge research. I'm a long-time GitHub user so I've seen more than [7.3k](https://github.com/dec0dOS?tab=stars) READMEs so far. I've started writing docs for my open source projects (that are currently in their early stages so they exist in the private space for now). After I've analyzed many popular GitHub READMEs and other GitHub-related docs and features I've tried to create a general-propose template that may be useful for any project.
-
-Of course, no template will serve all the projects since your needs may be different. So the [Cookiecutter](https://github.com/cookiecutter/cookiecutter) comes to the rescue. It allows [Jinja template language](https://jinja.palletsprojects.com) to be used for complex cases. Just enter up the project preferences you want in the Cookiecutter interactive menu and that's it. There is a manual setup that could be useful for your existing projects (or if you don't want to use Cookiecutter for some reason). **This README.md file is not a template itself**, you should [download the precompiled template](https://github.com/dec0dOS/amazing-github-template/releases/download/latest/template.zip) and replace the predefined values, then remove unused sections.
 
 </details>
 
