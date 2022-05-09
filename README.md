@@ -53,7 +53,7 @@ and improve its accuracy. The ScottisFold can analyze the IoT TCP packets by ver
 <tr>
 <td>
 
-ScottisFold is developped by [Tawan Hohum](CV) and Kalika Suksomboon under NECTEC.or.th organization. 
+ScottisFold is developped by [Tawan Hohum](https://github.com/donkyduck/ScottishFold-on-Edge/tree/main/CV) and Kalika Suksomboon under NECTEC.or.th organization. 
 
 
 </td>
