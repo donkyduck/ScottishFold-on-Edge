@@ -47,3 +47,15 @@ and improve its accuracy. The ScottisFold can analyze the IoT TCP packets by ver
 - Pyshark (for pcap file analysis) <br/>
 - sqlite3 (for SQL database) <br/>
 </details>
+
+# Contributors
+<table>
+<tr>
+<td>
+
+ScottisFold is developped by [Tawan Hohum](CV) and Kalika Suksomboon under NECTEC.or.th organization. 
+
+
+</td>
+</tr>
+</table>
